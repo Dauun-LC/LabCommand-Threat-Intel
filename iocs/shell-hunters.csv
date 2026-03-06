@@ -1,1 +1,2 @@
 ip,first_seen,last_seen,asn,country,behavior_detail,requests,response_codes,blocked,notes
+20.53.240.38,2026-02-22,2026-02-22,AS8075 Microsoft Corporation,AU,Probing for web shells and backdoors via nonexistent PHP paths,33,403,yes,AbuseIPDB 100% confidence 1423 reports 341 sources first reported Feb 2026 VT 3/94 Azure cloud IP likely compromised or rented attack infrastructure
