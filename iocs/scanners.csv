@@ -1,1 +1,2 @@
 ip,first_seen,last_seen,asn,country,behavior_detail,requests,response_codes,blocked,notes
+138.246.253.24,2026-02-26,2026-02-27,AS12816 Leibniz-Rechenzentrum,DE,Automated surface reconnaissance via robots.txt enumeration,2,403,yes,AbuseIPDB 0% confidence but 27052 reports 462 sources actively malicious VT 7/94 listed in honeypot graphs port scanning brute force
