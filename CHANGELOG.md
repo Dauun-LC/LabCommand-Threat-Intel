@@ -12,6 +12,7 @@ All updates to this repository are logged here in reverse chronological order.
   campaign with WordPress plugin-specific CVE probing, REST API enumeration, 
   and image directory shell placement attempts. All entries enriched via 
   AbuseIPDB and VirusTotal.
+- Response code corrected, Line 2 scrapers  
 
 ## [2026-03-07]
 - Added 5 IOC entries to brute-forcers.csv covering WordPress credential 
