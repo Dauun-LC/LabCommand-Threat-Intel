@@ -2,6 +2,17 @@
 
 All updates to this repository are logged here in reverse chronological order.
 
+## [2026-03-07] (continued)
+- Added 3 IOC entries to shell-hunters.csv covering systematic PHP backdoor 
+  hunting and targeted WordPress exploitation from JP and DE origins. Two 
+  Azure Japan IPs (20.78.129.228, 20.89.58.13) running identical web shell 
+  dictionary toolkits across compromised Microsoft infrastructure, probing 
+  25+ backdoor paths per session including cryptominer installation targets. 
+  OVH Germany IP (51.75.151.149) shows distinct profile — persistent 6-day 
+  campaign with WordPress plugin-specific CVE probing, REST API enumeration, 
+  and image directory shell placement attempts. All entries enriched via 
+  AbuseIPDB and VirusTotal.
+
 ## [2026-03-07]
 - Added 5 IOC entries to brute-forcers.csv covering WordPress credential 
   attacks against wp-login.php and wp-admin from LT, SG, CH, RS origins. 
