@@ -3,6 +3,14 @@
 All updates to this repository are logged here in reverse chronological order.
 
 ## [2026-03-07]
+- Added 5 IOC entries to brute-forcers.csv covering WordPress credential 
+  attacks against wp-login.php and wp-admin from LT, SG, CH, RS origins. 
+  Notable entries include two IPs from Lithuanian criminal infrastructure 
+  with phishing domain associations, a DigitalOcean Singapore node using 
+  rotating user agents, and a Serbian-registered IP with Iranian threat 
+  actor list associations. All entries enriched via AbuseIPDB and VirusTotal.
+
+## [2026-03-07]
 - Added 7 IOC entries to scanners.csv covering automated recon, surface mapping, 
   Googlebot user agent spoofing, and multi-behavior scanning activity originating 
   from DE, NL, and US data center infrastructure. Notable entries include a confirmed 
