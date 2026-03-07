@@ -1,1 +1,2 @@
 ip,first_seen,last_seen,asn,country,behavior_detail,requests,response_codes,blocked,notes
+141.98.11.169,2026-02-26,2026-02-26,AS209605 UAB Host Baltic,LT,Repeated wp-login.php credential attack with spoofed Mac Firefox user agent,1,403,yes,AbuseIPDB 100% confidence 21125 reports 1053 sources VT 13/94 malicious known SSH brute force and WordPress credential attack infrastructure actively malicious
